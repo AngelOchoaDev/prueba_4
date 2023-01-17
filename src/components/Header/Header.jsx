@@ -12,7 +12,7 @@ const Header = () => {
 
   const src = "https://jrodp.files.wordpress.com/2014/04/logo-ipn-blanco.png";
 
-  const autor = "Juan Carlos Salcedo Licea";
+  const autor = "AngelOchoaDev";
 
   return(
     <div className="Header">
